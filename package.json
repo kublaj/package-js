@@ -1,0 +1,13 @@
+{
+  "name"          : "package-js",
+  "description"   : "JavaScript Package Manager for Web App Framework development.",
+  "author"        : "CJ",
+  "version"       : "1.0.0",
+  "bin"           : {
+    "build.js":"./bin/build.js"
+  },
+  "dependencies"  : {
+    "uglify-js":">=2.0.0",
+    "uglifycss":"~0.0.7"
+  }
+}
